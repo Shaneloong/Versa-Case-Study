@@ -1,5 +1,5 @@
 # Loong Zhen Xuan - Versa Case Study Assessment
-This case study given by Versa. 
+This case study is given by Versa. 
 
 ## Project Info
 
