@@ -21,4 +21,4 @@ for i in range(1, 101):
 # Write the result array to a json file
 with open('output.json', 'w') as file_handler:
     json.dump(result_array, file_handler)
-print(result_array)
+
